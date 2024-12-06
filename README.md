@@ -18,10 +18,6 @@ Save and Load Contacts:
 
 All contacts are automatically saved to a CSV file on the system. Upon starting the application, the system will load previously saved contacts.
 No data is lost between sessions.
-Remove Contacts:
-
-Allows users to remove a contact by entering the phone number. The corresponding contact will be deleted from both the in-memory list and the CSV file.
-Search Contacts (Bonus Feature):
 
 Search for specific contacts using their name, email, or phone number. This allows users to quickly find the contact they are looking for.
 Error Handling:
