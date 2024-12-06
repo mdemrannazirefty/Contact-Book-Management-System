@@ -4,8 +4,6 @@ This is a Python-based Command Line Interface (CLI) application that allows user
 The system saves all contact data into a CSV file and loads the data when the program starts. The user interface is interactive and easy to navigate, with options to manage your contacts, making it simple for anyone to use.
 
 # Key Features
-Add Contacts:
-
 Add new contacts by entering details such as Name, Email, Phone Number, and Address.
 Phone number uniqueness is enforced to ensure no duplicate contacts are added.
 Prevent Duplicate Phone Numbers:
@@ -39,8 +37,8 @@ The application provides an interactive menu that lets users choose from differe
 - Upon starting the program, all existing contacts are loaded from the CSV file into the system.
 
 # Technologies Used
-Python 3.x: Core programming language used for the implementation.
-CSV: For storing and retrieving contact information in a text-based format.
+- Python 3.x: Core programming language used for the implementation.
+- CSV: For storing and retrieving contact information in a text-based format.
 
 # Conclusion
 This Contact Book Management System is a simple and effective CLI application that can be extended further with additional features like editing contacts, sorting, or even integrating with other platforms. It's a great project to practice Python basics and file handling.
