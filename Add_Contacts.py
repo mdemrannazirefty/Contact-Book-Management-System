@@ -34,7 +34,7 @@ def add_contact(contact_list):
     }
     contact_list.append(contact)
     save_all_contact(contact_list)
-    print("COntact Added Successfully")
+    print("Contact Added Successfully")
     print()
     
     return contact_list
